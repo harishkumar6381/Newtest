@@ -13,4 +13,10 @@ public class Conditional {
 			Conditional c = new Conditional();
 			c.vote();
 		}
+		private void m3() {
+System.out.println("qwerty");
+		}
+		private void m4() {
+System.out.println("asdfgh");
+		}
 }
